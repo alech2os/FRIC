@@ -1,14 +1,14 @@
 {
-  "main.css": "/FRIC/static/css/main.02f940b9.chunk.css",
-  "main.js": "/FRIC/static/js/main.731bb07f.chunk.js",
-  "main.js.map": "/FRIC/static/js/main.731bb07f.chunk.js.map",
+  "main.css": "/FRIC/static/css/main.a9a65cfd.chunk.css",
+  "main.js": "/FRIC/static/js/main.ba384de6.chunk.js",
+  "main.js.map": "/FRIC/static/js/main.ba384de6.chunk.js.map",
   "static/js/1.d8e512b6.chunk.js": "/FRIC/static/js/1.d8e512b6.chunk.js",
   "static/js/1.d8e512b6.chunk.js.map": "/FRIC/static/js/1.d8e512b6.chunk.js.map",
   "runtime~main.js": "/FRIC/static/js/runtime~main.ff8c452f.js",
   "runtime~main.js.map": "/FRIC/static/js/runtime~main.ff8c452f.js.map",
-  "static/media/index.css": "/FRIC/static/media/icon-check.4cffa739.svg",
-  "static/css/main.02f940b9.chunk.css.map": "/FRIC/static/css/main.02f940b9.chunk.css.map",
+  "static/media/index.css": "/FRIC/static/media/icon-check.b4084e44.svg",
+  "static/css/main.a9a65cfd.chunk.css.map": "/FRIC/static/css/main.a9a65cfd.chunk.css.map",
   "index.html": "/FRIC/index.html",
-  "precache-manifest.6ea83670dda31120c1c1bc36a6ba838c.js": "/FRIC/precache-manifest.6ea83670dda31120c1c1bc36a6ba838c.js",
+  "precache-manifest.081a8fe99cb355b55fe48c8ecbc8ddac.js": "/FRIC/precache-manifest.081a8fe99cb355b55fe48c8ecbc8ddac.js",
   "service-worker.js": "/FRIC/service-worker.js"
 }
